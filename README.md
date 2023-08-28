@@ -21,3 +21,5 @@
 - Populate object from filtered form data
 - Create function that sends patch
 - Update DOM with updated user data
+
+## [Reproduce this in React](https://github.com/codetombomb/acc-patch-lecture-react-patch-put-demo/tree/main)
