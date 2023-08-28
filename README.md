@@ -11,3 +11,13 @@
 ## PUT Demo
 
 - Update just program using PUT (Cyber Security)
+
+## PATCH with `fetch`
+
+- Uncomment `update-student-form` section
+- In `app.js`, add submit event listener for form
+- Use `new FormData()` to get form data
+- Filter blank entries
+- Populate object from filtered form data
+- Create function that sends patch
+- Update DOM with updated user data
